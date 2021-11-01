@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375992014226",
+    "project_id": "cineapp-827c3",
+    "storage_bucket": "cineapp-827c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375992014226:android:0dcd7bece679e0736e1d4b",
+        "android_client_info": {
+          "package_name": "com.peliculasApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375992014226-lth5nhin79h0d8clsb7ebjkck5i9mfc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiH9_bU-Ki8RBzoxWBmQC5WTN5IDP_YaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375992014226-lth5nhin79h0d8clsb7ebjkck5i9mfc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
